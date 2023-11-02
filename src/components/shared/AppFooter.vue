@@ -10,7 +10,7 @@ export default {
 					id: 1,
 					name: 'GitHub',
 					icon: 'github',
-					url: 'https://github.com/lengchhinghor',
+					url: 'https://github.com/gmwangomo',
 				},
 				{
 					id: 2,
@@ -22,13 +22,13 @@ export default {
 					id: 3,
 					name: 'Medium',
 					icon: 'book',
-					url: 'https://medium.com/@lengchhinghor',
+					url: 'https://medium.com/@',
 				},
 				{
 					id: 4,
 					name: 'Instagram',
 					icon: 'instagram',
-					url: 'https://www.instagram.com/seavhorrr',
+					url: 'https://www.instagram.com/',
 				},
 			],
 		};

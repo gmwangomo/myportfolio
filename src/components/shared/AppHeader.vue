@@ -30,13 +30,13 @@ export default {
 				},
 				{
 					id: 3,
-					value: 'api',
-					name: 'API Spring boot',
+					value: 'graphics',
+					name: 'Graphics designer',
 				},
 				{
 					id: 4,
-					value: 'microservice',
-					name: 'Spring Microservice',
+					value: 'cctv',
+					name: 'CCTV camera installation',
 				},
 			],
 		};

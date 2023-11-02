@@ -11,8 +11,8 @@ export default {
 			default: () => [
 				'Web Application',
 				'Mobile Application',
-				'API Spring boot',
-				'Spring Microservice',
+				'Graphics Designer',
+				'CCTV camera installation',
 			],
 		},
 	},

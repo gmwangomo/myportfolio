@@ -6,13 +6,18 @@ export default {
 				{
 					id: 1,
 					bio:
-						'HI, I am Leng Chhinghor!',
+						'HI, I am Gwakisa Mwangomo!',
 				},
 				{
 					id: 2,
 					bio:
-						'Backend Developer at APD bank.',
+						'Fullstack Developer at GalemTech.',
 				},
+				{
+					id: 3,
+					bio:
+						"Also the betters developer and with high explessing in the coding and development of project",
+				}
 			],
 		};
 	},
